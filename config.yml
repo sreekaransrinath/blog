@@ -18,8 +18,8 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sreekaran
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack]
+  author: Sreekaran
   # author: ["Me", "You"] # multiple authors
   images: ["https://sreekaran.com/assets/artpfp-1.png"]
   DateFormat: "January 2, 2006"
