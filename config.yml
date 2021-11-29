@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-12H0FM6N36
 
 minify:
   disableXML: true
@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sreekaran
   description: "ExampleSite description"
-  keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack]
+  keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack, Devrel]
   author: Sreekaran
   # author: ["Me", "You"] # multiple authors
   images: ["https://sreekaran.com/assets/artpfp-1.png"]
@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Sreekaran
-    subtitle: "Software Engineer by day, Developer Advocate by night."
+    subtitle: "Software Engineer by day, DevRel Engineer by night."
     imageUrl: "https://sreekaran.com/assets/artpfp-1.png"
     imageWidth: 120
     imageHeight: 120
@@ -67,7 +67,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Sreekaran \U0001F44B"
-    Content: "Software Engineer by day, Developer Advocate by night.
+    Content: "Software Engineer by day, DevRel Engineer by night.
 
       \nI'm using this blog as an outlet to ramble on about CS, learning, anime, lifting, books, and anything else that piques my curiosity.
 
