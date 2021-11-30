@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sreekaran
-  description: "ExampleSite description"
+  description: "Software Engineer by day, DevRel Engineer by night."
   keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack, Devrel]
   author: Sreekaran
   # author: ["Me", "You"] # multiple authors
