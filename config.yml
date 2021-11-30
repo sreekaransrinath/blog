@@ -1,5 +1,5 @@
 baseURL: "https://blog.sreekaran.com/"
-title: Sreekaran
+title: Sreekaran's Blog
 paginate: 5
 theme: "PaperMod"
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Sreekaran
+  title: Sreekaran's Blog
   description: "Software Engineer by day, DevRel Engineer by night."
   keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack, Devrel]
   author: Sreekaran
@@ -117,10 +117,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
@@ -129,6 +125,10 @@ menu:
       name: sreekaran.com
       url: https://sreekaran.com
       weight: 30
+    # - identifier: twitter
+    #   name: twitter.com/skxrxn
+    #   url: https://twitter.com/skxrxn
+    #   weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
