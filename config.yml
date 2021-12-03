@@ -45,7 +45,7 @@ params:
     favicon: "favicon.ico"
 
   label:
-    text: "Sreekaran"
+    text: "Sreekaran's Blog"
     # icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -69,7 +69,7 @@ params:
     Title: "Hi, I'm Sreekaran \U0001F44B"
     Content: "Software Engineer by day, DevRel Engineer by night.
 
-      \nI'm using this blog as an outlet to ramble on about CS, learning, anime, lifting, books, and anything else that piques my curiosity.
+      \nI'm using this blog as an outlet to ramble on about CS, learning, [anime](https://hi.skrn.ml/mal), lifting, books, and anything else that piques my curiosity.
 
       \nFor shitposts, my [Twitter](https://hi.skrn.ml/site->twt) is the right place to head to."
 
@@ -124,11 +124,11 @@ menu:
     - identifier: website
       name: sreekaran.com
       url: https://sreekaran.com
+      weight: 40
+    - identifier: repository
+      name: repo
+      url: https://github.com/sreekaransrinath/blog
       weight: 30
-    # - identifier: twitter
-    #   name: twitter.com/skxrxn
-    #   url: https://twitter.com/skxrxn
-    #   weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
