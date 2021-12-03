@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Wtf is a hackathon?"
 canonicalURL: "https://blog.sreekaran.com/posts/hackathons-101"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -28,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/sreekaransrinath/blog/content/posts/hackathons-101.md"
+    URL: "https://github.com/sreekaransrinath/blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
