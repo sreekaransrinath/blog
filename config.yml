@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sreekaran's Blog
-  description: "Software Engineer by day, DevRel Engineer by night."
+  description: "Software Engineer by day, Developer Advocate by night."
   keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack, Devrel]
   author: Sreekaran
   # author: ["Me", "You"] # multiple authors
@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Sreekaran
-    subtitle: "Software Engineer by day, DevRel Engineer by night."
+    subtitle: "Software Engineer by day, Developer Advocate by night."
     imageUrl: "https://sreekaran.com/assets/artpfp-1.png"
     imageWidth: 120
     imageHeight: 120
@@ -67,25 +67,25 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Sreekaran \U0001F44B"
-    Content: "Software Engineer by day, DevRel Engineer by night.
+    Content: "Software Engineer by day, Developer Advocate by night.
 
-      \nI'm using this blog as an outlet to ramble on about CS, learning, [anime](https://hi.skrn.ml/mal), lifting, books, and anything else that piques my curiosity.
+      \nI'm using this blog as an outlet to ramble on about CS, learning, [anime](https://sreekaran.com/mal), lifting, books, and anything else that piques my curiosity.
 
-      \nFor shitposts, my [Twitter](https://hi.skrn.ml/site->twt) is the right place to head to."
+      \nFor shitposts, my [Twitter](https://sreekaran.com/twt) is the right place to head to."
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/skxrxn"
+      url: "https://sreekaran.com/twt"
     - name: website
       url: "https://sreekaran.com"
     - name: github
-      url: "https://github.com/sreekaransrinath"
+      url: "https://sreekaran.com/gh"
     - name: linkedin
-      url: "https://linkedin.com/in/sreekaransrinath"
+      url: "https://sreekaran.com/li"
     - name: instagram
-      url: "https://instagram.com/skxrxn"
+      url: "https://sreekaran.com/ig"
     - name: email
-      url: "mailto:sreekaran.srinath@gmail.com"
+      url: "mailto:hi@sreekaran.com"
 
   analytics:
     google:
@@ -129,12 +129,3 @@ menu:
       name: repo
       url: https://github.com/sreekaransrinath/blog
       weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
