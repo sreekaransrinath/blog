@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sreekaran&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sreekaran&#39;s Blog</description>
+    <image>
+      <title>Sreekaran&#39;s Blog</title>
+      <url>https://sreekaran.com/assets/artpfp-1.png</url>
+      <link>https://sreekaran.com/assets/artpfp-1.png</link>
+    </image>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why You Should Lose at Hackathons</title>
+      <link>http://localhost:1313/posts/lose-at-hackathons/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/lose-at-hackathons/</guid>
+      <description>Yes, I said what I said 😤</description>
+    </item>
+    <item>
+      <title>Hackathons 101</title>
+      <link>http://localhost:1313/posts/hackathons-101/</link>
+      <pubDate>Fri, 05 Feb 2021 22:39:03 +0530</pubDate>
+      <guid>http://localhost:1313/posts/hackathons-101/</guid>
+      <description>Wtf is a hackathon?</description>
+    </item>
+  </channel>
+</rss>
