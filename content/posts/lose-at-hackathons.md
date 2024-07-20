@@ -12,30 +12,26 @@ draft: false
 hidemeta: false
 comments: false
 description: "Yes, I said what I said 😤"
-canonicalURL: "https://blog.sreekaran.com/posts/lose-at-hackathons"
+canonicalURL: "https://sreekaran.com/posts/lose-at-hackathons"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowPostNavLinks: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/sreekaransrinath/blog/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 That’s a forking controversial title if you’ve ever seen one, but hear me out. I promise this isn’t clickbait.
 
-If you don’t know what a hackathon is or have never attended one, head [here](https://blog.sreekaran.com/hackathons-101.md).
+If you don’t know what a hackathon is or have never attended one, head [here]({{< relref "posts/hackathons-101.md" >}}).
 
 # To start with - What even IS a hackathon?
 

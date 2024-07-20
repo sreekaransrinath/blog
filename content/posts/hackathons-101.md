@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Wtf is a hackathon?"
-canonicalURL: "https://blog.sreekaran.com/posts/hackathons-101"
+canonicalURL: "https://sreekaran.com/posts/hackathons-101"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -27,10 +27,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/sreekaransrinath/blog/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 After answering this question 23897693621 times on Discord, I've finally decided to compile a FAQ of sorts, including my experiences, into this blog post. Towards the end, I'll also talk about how hackathons have transitioned from in-person to digital, and the pros and cons of digital hackathons.
