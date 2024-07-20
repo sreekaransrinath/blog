@@ -1,4 +1,4 @@
-baseURL: "https://blog.sreekaran.com/"
+baseURL: "https://sreekaran.com"
 title: Sreekaran's Blog
 paginate: 5
 theme: "PaperMod"
@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sreekaran's Blog
   description: "Software Engineer by day, Developer Advocate by night."
-  keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack, Devrel]
+  # keywords: [Blog, Portfolio, Sreekaran, Srinath, Engineer, Advocate, Developer, Software, DevOps, Backend, Frontend, Fullstack, Devrel]
   author: Sreekaran
   # author: ["Me", "You"] # multiple authors
   images: ["https://sreekaran.com/assets/artpfp-1.png"]
@@ -69,15 +69,13 @@ params:
     Title: "Hi, I'm Sreekaran \U0001F44B"
     Content: "Software Engineer by day, Developer Advocate by night.
 
-      \nI'm using this blog as an outlet to ramble on about CS, learning, devrel, [anime](https://sreekaran.com/mal), lifting, books, and anything else that piques my curiosity.
+      \nI'm using this blog as an outlet to ramble on about CS, [anime](https://sreekaran.com/mal), running, lifting, books, and anything else that piques my curiosity.
 
       \nIf you want to reach out, my [Twitter](https://sreekaran.com/twt) is the right place to head to."
 
   socialIcons:
     - name: twitter
       url: "https://sreekaran.com/twt"
-    - name: website
-      url: "https://sreekaran.com"
     - name: github
       url: "https://sreekaran.com/gh"
     - name: linkedin
@@ -90,10 +88,6 @@ params:
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -101,7 +95,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/sreekaransrinath/blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -121,10 +115,6 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: website
-      name: sreekaran.com
-      url: https://sreekaran.com
-      weight: 40
     - identifier: repository
       name: repo
       url: https://github.com/sreekaransrinath/blog
