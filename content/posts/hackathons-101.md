@@ -4,8 +4,6 @@ date: 2021-02-05T22:39:03+05:30
 # weight: 1
 # aliases: ["/first"]
 tags: ["hackathons", "cs"]
-author: "Sreekaran"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
