@@ -1,6 +1,6 @@
 ---
 title: "coming up: running - a story involving my father, strava, a untrained half-marathon, and apple fitness"
-date: 2021-02-05T22:39:03+05:30
+date: 2025-01-24T16:13:03-05:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["running"]
